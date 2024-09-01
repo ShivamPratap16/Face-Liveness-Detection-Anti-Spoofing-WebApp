@@ -10,3 +10,5 @@ Flask
 numpy
 opencv-python
 gunicorn
+timm
+torch
