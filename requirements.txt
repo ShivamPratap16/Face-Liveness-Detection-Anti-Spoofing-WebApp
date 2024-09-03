@@ -12,3 +12,5 @@ opencv-python
 gunicorn
 timm
 torch
+Flask-Cors
+torchvision
