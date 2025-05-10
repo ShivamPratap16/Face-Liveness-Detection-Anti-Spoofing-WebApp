@@ -16,7 +16,7 @@ Ready to dive in? Let's get you up and running in no time!
 Start by forking this repository. Once done, clone it to your local machine:
 
 \`\`\`sh
-git clone https://github.com/birdowl21/Face-Liveness-Detection-Anti-Spoofing-Web-App.git
+[git clone https://github.com/shivampratap164/face_liveness_detector.git]
 \`\`\`
 
 ### Step 2: Set Up Your Virtual Environment
